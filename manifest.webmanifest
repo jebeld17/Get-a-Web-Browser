@@ -1,0 +1,15 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "Get a Web Browser",
+    "scope" : "/?https://github.com/jebeld17/Get-a-Web-Browser/blob/master/Home.html",
+    "display" : "browser",
+    "start_url" : "https://htmlpreview.github.io/?https://github.com/jebeld17/Get-a-Web-Browser/blob/master/Home.html",
+    "short_name" : "Get a Web Browser",
+    "theme_color" : "transparent",
+    "description" : "Get a Web Browser",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "icons" : [
+    ]}
