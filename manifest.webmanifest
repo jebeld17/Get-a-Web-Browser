@@ -1,0 +1,16 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "GitHub & BitBucket HTML Preview",
+    "scope" : "/?https://github.com/jebeld17/Get-a-Web-Browser/blob/master/Home.html",
+    "display" : "browser",
+    "start_url" : "https://htmlpreview.github.io/?https://github.com/jebeld17/Get-a-Web-Browser/blob/master/Home.html",
+    "short_name" : "GitHub & BitBuc",
+    "theme_color" : "transparent",
+    "description" : "",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+    ]}
